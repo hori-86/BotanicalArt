@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/* ローカルでのフォント用 */
+@font-face {
+  font-family: myFont;
+  src: url(../fonts/ROLAchan-Regular.otf);
+}
+
+/* logo */
+#logo-ttl{
+  font-family: myFont,Verdana, Geneva, Tahoma, sans-serif !important;
+}
